@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import Header from "../components/header"
 
 export default () => (
-    <div style={{ color: "purple"}}>
+    <div>
     <Header headerText="Well, Hello world!" />
     <h3>This is Gatsby!</h3>
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
