@@ -5,7 +5,7 @@
   </a>
 
 ### This is a copy of the Gatsby hello-world starter
-Created for a demo given for the Roanoke Valley .NET Users Group on June 6, 2019.
+Created for a demo given at the Roanoke Valley .NET Users Group on June 6, 2019.
 
 The finished page was can be [viewed here](https://darrell24015.github.io/HelloWorld/)
 
