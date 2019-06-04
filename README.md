@@ -8,6 +8,15 @@
   Gatsby's hello-world starter
 </h1>
 
+---
+### This is a copy of the Gatsby hello-world starter
+Created for a demo given for the Roanoke Valley .NET Users Group on June 6, 2019.
+The finished page was can be [viewed here](https://darrell24015.github.io/HelloWorld/)
+Proudly Hosted on **GitHub Pages** :octocat:
+
+Below is the original instructions for this starter
+---
+
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
